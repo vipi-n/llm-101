@@ -10,6 +10,8 @@ A practical roadmap focused on **using AI as a force-multiplier in your work**, 
 
 **Goal:** Understand what AI can/can't do so you stop treating it like magic.
 
+> **Full deep-dive:** [AI_STAGE1_FOUNDATIONS.md](./AI_STAGE1_FOUNDATIONS.md) — concepts, labs, and interview Q&A in plain language. Read this for Stage 1.
+
 - **Core concepts** (high level, no math):
   - LLMs, tokens, context window, temperature, hallucinations
   - Difference between: LLM vs RAG vs Agent vs Fine-tuning
